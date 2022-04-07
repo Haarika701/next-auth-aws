@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "nextauthaws",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/haarikaramadugu/Development/next-auth-aws/amplify/backend/api/nextauthaws/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authnextauthaws52bd834c"
+    }
+  }
+}

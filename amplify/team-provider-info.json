@@ -10,6 +10,11 @@
       "StackName": "amplify-nextauthaws-dev-113922",
       "StackId": "arn:aws:cloudformation:us-west-1:663270750779:stack/amplify-nextauthaws-dev-113922/0d1acc60-b6a2-11ec-9f05-0289acfc89c1",
       "AmplifyAppId": "d2cu9htk1kk727"
+    },
+    "categories": {
+      "auth": {
+        "nextauthaws52bd834c": {}
+      }
     }
   }
 }
